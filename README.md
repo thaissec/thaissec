@@ -62,22 +62,4 @@
 <td width="35%" valign="top">
 
 <div align="center">
-
-### `> SYSTEM_STATUS.exe`
-
-<br>
-
-```text
-╭────────────────────────────╮
-│                            │
-│  ● SYSTEM_ONLINE           │
-│                            │
-│  CORE          ACTIVE      │
-│  NETWORK       CONNECTED   │
-│  SECURITY      ACTIVE      │
-│  DEVELOPMENT   RUNNING     │
-│                            │
-│  LOCATION                  │
-│  └─ Brazil 🇧🇷             │
-│                            │
-╰────────────────────────────╯
+──╯
