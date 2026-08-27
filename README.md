@@ -1,31 +1,50 @@
 <!-- ============================================================ -->
-<!--                         OVERVIEW                             -->
+<!--              THAIS COELHO // COMMAND CENTER                 -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-## 🪐 OVERVIEW // SOBRE MIM
+  <!-- ======================== HERO =========================== -->
 
-<br>
+  <img
+    src="./background.png"
+    width="100%"
+    alt="THAIS COELHO // COMMAND CENTER"
+  />
 
-> **STATUS:** `SYSTEM_ONLINE`
+  <br><br>
 
-<br>
+  <!-- ================= TYPESCRIPT BOOT ======================= -->
 
-🤖 Bem-vindo(a) à minha central de comando.
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=650&color=A855F7&center=true&vCenter=true&width=650&lines=%3E+INITIALIZING_TYPESCRIPT...;%3E+TYPE_SYSTEM_ONLINE;%3E+STRONG_TYPING_ENABLED;%3E+TS_CORE_MODULE_LOADED"
+    alt="TypeScript Boot Animation"
+  />
 
-Sou estudante de **Ciência da Computação**, apaixonada por tecnologia,
-desenvolvimento de software e pela criação de soluções através do código.
+  <br><br>
 
-💡 Meu foco está no desenvolvimento de aplicações modernas
-**Full-Stack**, arquitetura de software, automação e exploração
-de novas tecnologias.
+  <!-- ================= SYSTEM ONLINE ======================== -->
 
-🛡️ Também tenho interesse em **CyberSecurity**, desenvolvimento seguro,
-criptografia e estudo prático de vulnerabilidades.
+  <img
+    src="https://img.shields.io/badge/SYSTEM-ONLINE-22C55E?style=for-the-badge&labelColor=0D0B14"
+    alt="System Online"
+  />
 
-⚡ Gosto de aprender através da prática, transformar ideias em projetos
-reais e evoluir constantemente como desenvolvedora.
+  <br><br>
+
+  <!-- ================= IDENTITY ============================== -->
+
+  <h1>⚡ THAIS COELHO</h1>
+
+  <h3>CENTRAL DE COMANDO</h3>
+
+  <p>
+    <code>COMPUTER SCIENCE</code>
+    &nbsp; // &nbsp;
+    <code>FULL-STACK</code>
+    &nbsp; // &nbsp;
+    <code>CYBERSECURITY</code>
+  </p>
 
 </div>
 
@@ -34,16 +53,31 @@ reais e evoluir constantemente como desenvolvedora.
 ---
 
 <!-- ============================================================ -->
-<!--                 SYSTEM INFORMATION                          -->
+<!--                    MAIN SYSTEM PANEL                        -->
 <!-- ============================================================ -->
+
+<table align="center">
+<tr>
+
+<td width="35%" valign="top">
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2400&pause=900&color=C084FC&center=true&vCenter=true&width=550&lines=%3E+LOADING_SYSTEM_INFORMATION...;%3E+ACCESSING_CORE_MODULES...;%3E+MODULES_LOADED_SUCCESSFULLY"
-  alt="System Information"
-/>
-
-</div>
+### `> SYSTEM_STATUS.exe`
 
 <br>
+
+```text
+╭────────────────────────────╮
+│                            │
+│  ● SYSTEM_ONLINE           │
+│                            │
+│  CORE          ACTIVE      │
+│  NETWORK       CONNECTED   │
+│  SECURITY      ACTIVE      │
+│  DEVELOPMENT   RUNNING     │
+│                            │
+│  LOCATION                  │
+│  └─ Brazil 🇧🇷             │
+│                            │
+╰────────────────────────────╯
