@@ -15,12 +15,11 @@
   <br><br>
 
   <!-- ================= TYPESCRIPT BOOT ======================= -->
-
-  <!-- ================= TYPESCRIPT BOOT ======================= -->
+<!-- ================= TYPESCRIPT NEON BOOT ================= -->
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1800&pause=650&color=A855F7&center=true&vCenter=true&width=650&lines=%3E+INITIALIZING_TYPESCRIPT...;%3E+TYPE_SYSTEM_ONLINE;%3E+STRONG_TYPING_ENABLED;%3E+TS_CORE_MODULE_LOADED"
-  alt="TypeScript Boot Animation"
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=1700&pause=600&color=E879F9&background=0D0B14&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING_TYPESCRIPT...;%3E+TYPE_SYSTEM_ONLINE;%3E+STRONG_TYPING_ENABLED;%3E+TS_CORE_MODULE_LOADED"
+  alt="Neon TypeScript Boot Animation"
 />
 
   <br><br>
