@@ -1,6 +1,6 @@
 # ⚡ THAIS COELHO // CENTRAL DE COMANDO
  
-![Banner Cyberpunk](https://vercel.app)
+<img src="https://vercel.app" width="100%" />
 
 ### 🌐 Conecte-se Comigo
 [![LinkedIn](https://shields.io)](https://linkedin.com) [![Gmail](https://shields.io)](mailto:seu-email@provedor.com) [![Instagram](https://shields.io)](https://instagram.com)
@@ -23,19 +23,19 @@
 ## ⚡ TECH STACK & CORE PROTOCOLS
 
 ### 🛠️ Linguagens & Tecnologias Principais
-* ![JavaScript](https://shields.io) **JavaScript**
-* ![TypeScript](https://shields.io) **TypeScript**
-* ![HTML5](https://shields.io) **HTML5**
-* ![CSS3](https://shields.io) **CSS3**
-* ![React](https://shields.io) **React**
-* ![Node.js](https://shields.io) **Node.js**
-* ![Python](https://shields.io) **Python**
+* <img src="https://shields.io" />
+* <img src="https://shields.io" />
+* <img src="https://shields.io" />
+* <img src="https://shields.io" />
+* <img src="https://shields.io" />
+* <img src="https://shields.io" />
+* <img src="https://shields.io" />
 
 ### 🖥️ Ambiente & Ferramentas Operacionais
-* ![Git](https://shields.io) **Git**
-* ![VS Code](https://shields.io) **VS Code**
-* ![Linux](https://shields.io) **Linux**
-* ![Docker](https://shields.io) **Docker**
+* <img src="https://shields.io" />
+* <img src="https://shields.io" />
+* <img src="https://shields.io" />
+* <img src="https://shields.io" />
 
 ---
 
@@ -54,11 +54,7 @@
 
 ## 📊 TELEMETRY DATA // MÉTRICAS DO GITHUB
 
-Aqui você verá seus gráficos de desempenho assim que começar a commitar no seu perfil:
-
-![Stats do GitHub](https://vercel.app)
-
-![Linguagens mais usadas](https://vercel.app)
+<img src="https://vercel.app" width="48%" /> <img src="https://vercel.app" width="48%" />
 
 ---
 
