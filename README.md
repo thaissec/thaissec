@@ -4,16 +4,15 @@
 
 <div align="center">
 
-  <!-- ========================= HERO ========================== -->
+  <!-- ======================== HERO =========================== -->
 
   <img
     src="./background.png"
     width="100%"
-    alt="Thais Coelho // Command Center"
+    alt="THAIS COELHO // COMMAND CENTER"
   />
 
-  <br>
-  <br>
+  <br><br>
 
   <!-- ================= TYPESCRIPT BOOT ======================= -->
 
@@ -22,18 +21,16 @@
     alt="TypeScript Boot Animation"
   />
 
-  <br>
-  <br>
+  <br><br>
 
-  <!-- ================= SYSTEM STATUS ======================== -->
+  <!-- ================= SYSTEM ONLINE ======================== -->
 
   <img
     src="https://img.shields.io/badge/SYSTEM-ONLINE-22C55E?style=for-the-badge&labelColor=0D0B14"
     alt="System Online"
   />
 
-  <br>
-  <br>
+  <br><br>
 
   <!-- ================= IDENTITY ============================== -->
 
@@ -56,27 +53,31 @@
 ---
 
 <!-- ============================================================ -->
-<!--                  SYSTEM STATUS + OVERVIEW                   -->
+<!--                    MAIN SYSTEM PANEL                        -->
 <!-- ============================================================ -->
 
-<table>
+<table align="center">
 <tr>
 
 <td width="35%" valign="top">
 
-## `> SYSTEM_STATUS.exe`
+<div align="center">
+
+### `> SYSTEM_STATUS.exe`
+
+<br>
 
 ```text
-╭──────────────────────────────╮
-│                              │
-│  ● SYSTEM_ONLINE             │
-│                              │
-│  CORE          ACTIVE        │
-│  NETWORK       CONNECTED     │
-│  SECURITY      ACTIVE        │
-│  DEVELOPMENT   RUNNING       │
-│                              │
-│  LOCATION                    │
-│  └─ Brazil 🇧🇷               │
-│                              │
-╰──────────────────────────────╯
+╭────────────────────────────╮
+│                            │
+│  ● SYSTEM_ONLINE           │
+│                            │
+│  CORE          ACTIVE      │
+│  NETWORK       CONNECTED   │
+│  SECURITY      ACTIVE      │
+│  DEVELOPMENT   RUNNING     │
+│                            │
+│  LOCATION                  │
+│  └─ Brazil 🇧🇷             │
+│                            │
+╰────────────────────────────╯
