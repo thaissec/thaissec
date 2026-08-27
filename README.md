@@ -1,10 +1,10 @@
 <!-- ============================================================ -->
-<!--              THAIS COELHO // GITHUB COMMAND CENTER          -->
+<!--              THAIS COELHO // COMMAND CENTER                 -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-  <!-- ====================== HERO ====================== -->
+  <!-- ========================= HERO ========================== -->
 
   <img
     src="./background.png"
@@ -15,14 +15,17 @@
   <br>
   <br>
 
-  <!-- ================= TYPESCRIPT BOOT ================= -->
+  <!-- ================= TYPESCRIPT BOOT ======================= -->
 
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=650&color=A855F7&center=true&vCenter=true&width=650&lines=%3E+INITIALIZING_TYPESCRIPT...;%3E+TYPE_SYSTEM_ONLINE;%3E+STRONG_TYPING_ENABLED;%3E+TS_CORE_MODULE_LOADED"
-    alt="TypeScript Boot"
+    alt="TypeScript Boot Animation"
   />
 
   <br>
+  <br>
+
+  <!-- ================= SYSTEM STATUS ======================== -->
 
   <img
     src="https://img.shields.io/badge/SYSTEM-ONLINE-22C55E?style=for-the-badge&labelColor=0D0B14"
@@ -32,11 +35,11 @@
   <br>
   <br>
 
+  <!-- ================= IDENTITY ============================== -->
+
   <h1>⚡ THAIS COELHO</h1>
 
-  <p>
-    <strong>CENTRAL DE COMANDO</strong>
-  </p>
+  <h3>CENTRAL DE COMANDO</h3>
 
   <p>
     <code>COMPUTER SCIENCE</code>
@@ -50,8 +53,10 @@
 
 <br>
 
+---
+
 <!-- ============================================================ -->
-<!--                     SYSTEM STATUS                            -->
+<!--                  SYSTEM STATUS + OVERVIEW                   -->
 <!-- ============================================================ -->
 
 <table>
@@ -59,59 +64,19 @@
 
 <td width="35%" valign="top">
 
-### `> SYSTEM_STATUS.exe`
+## `> SYSTEM_STATUS.exe`
 
 ```text
 ╭──────────────────────────────╮
 │                              │
 │  ● SYSTEM_ONLINE             │
 │                              │
-│  CORE        ACTIVE          │
-│  NETWORK     CONNECTED       │
-│  SECURITY    ACTIVE          │
-│  DEVELOPMENT RUNNING         │
+│  CORE          ACTIVE        │
+│  NETWORK       CONNECTED     │
+│  SECURITY      ACTIVE        │
+│  DEVELOPMENT   RUNNING       │
 │                              │
 │  LOCATION                    │
 │  └─ Brazil 🇧🇷               │
 │                              │
 ╰──────────────────────────────╯
-<br>
-
-<!-- ============================================================ -->
-<!--                 SYSTEM INFORMATION                          -->
-<!-- ============================================================ -->
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=%3E+LOADING_SYSTEM_INFORMATION...;%3E+ACCESSING_USER_DATA...;%3E+INFORMATION_LOADED"
-  alt="System Information"
-/>
-
-</div>
-
-<br>
-
-<!-- ============================================================ -->
-<!--                      ABOUT + FOCUS                           -->
-<!-- ============================================================ -->
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🧠 ABOUT_ME
-
-```text
-╭────────────────────────────╮
-│                            │
-│  USER: THAIS_COELHO        │
-│                            │
-│  Computer Science          │
-│  Full-Stack Developer      │
-│  CyberSecurity Enthusiast  │
-│                            │
-│  STATUS: LEARNING          │
-│                            │
-╰────────────────────────────╯
