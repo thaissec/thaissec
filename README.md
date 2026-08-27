@@ -18,9 +18,9 @@
 
 ### ⚡ TECH STACK & CORE PROTOCOLS
 
-* **DEVELOPMENT:** `JavaScript` | `TypeScript` | `Python` | `HTML5` | `CSS3`
-* **FRAMEWORKS & RUNTIMES:** `React.js` | `Node.js`
-* **ENVIRONMENT & TOOLS:** `Git` | `VS Code` | `Linux` | `Docker`
+Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolvimento:
+
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
 ---
 
