@@ -4,13 +4,25 @@
 
 <div align="center">
 
-  <!-- ================= TYPE SCRIPT BOOT ================= -->
+  <!-- ================= FUTURISTIC BACKGROUND ================= -->
+
+  <img
+    src="./background.png"
+    width="100%"
+    alt="Thais Coelho // Futuristic Background"
+  />
+
+  <br>
+  <br>
+
+  <!-- ================= TYPESCRIPT BOOT ================= -->
 
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1800&pause=700&color=A855F7&center=true&vCenter=true&width=650&lines=%3E+INITIALIZING_TYPESCRIPT...;%3E+TYPE_SYSTEM_ONLINE;%3E+STRONG_TYPING_ENABLED;%3E+TS_CORE_MODULE_LOADED"
     alt="TypeScript Boot Animation"
   />
 
+  <br>
   <br>
 
   <!-- ================= MAIN IDENTITY ================= -->
@@ -54,16 +66,11 @@
 
 🤖 Bem-vindo(a) à minha central de comando baseada na nuvem.
 
-Sou estudante de **Ciência da Computação** apaixonada por decodificar
-problemas complexos, estruturar arquiteturas web eficientes e desvendar
-os meandros da segurança cibernética.
+Sou estudante de **Ciência da Computação** apaixonada por decodificar problemas complexos, estruturar arquiteturas web eficientes e desvendar os meandros da segurança cibernética.
 
-💡 Meu foco atual está no desenvolvimento de aplicações modernas de
-ponta a ponta (**Full-Stack**), automação de processos inteligentes e
-no estudo prático de vulnerabilidades digitais.
+💡 Meu foco atual está no desenvolvimento de aplicações modernas de ponta a ponta (**Full-Stack**), automação de processos inteligentes e no estudo prático de vulnerabilidades digitais.
 
-🛡️ Acredito que código limpo combinado com protocolos de segurança
-rígidos é o que define o verdadeiro software de nível de produção.
+🛡️ Acredito que código limpo combinado com protocolos de segurança rígidos é o que define o verdadeiro software de nível de produção.
 
 ---
 
@@ -71,7 +78,10 @@ rígidos é o que define o verdadeiro software de nível de produção.
 
 <p align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,docker,linux" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,docker,linux"
+    alt="Tech Stack"
+  />
 
 </p>
 
