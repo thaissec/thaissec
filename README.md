@@ -75,3 +75,43 @@
 │  └─ Brazil 🇧🇷               │
 │                              │
 ╰──────────────────────────────╯
+<br>
+
+<!-- ============================================================ -->
+<!--                 SYSTEM INFORMATION                          -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=%3E+LOADING_SYSTEM_INFORMATION...;%3E+ACCESSING_USER_DATA...;%3E+INFORMATION_LOADED"
+  alt="System Information"
+/>
+
+</div>
+
+<br>
+
+<!-- ============================================================ -->
+<!--                      ABOUT + FOCUS                           -->
+<!-- ============================================================ -->
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧠 ABOUT_ME
+
+```text
+╭────────────────────────────╮
+│                            │
+│  USER: THAIS_COELHO        │
+│                            │
+│  Computer Science          │
+│  Full-Stack Developer      │
+│  CyberSecurity Enthusiast  │
+│                            │
+│  STATUS: LEARNING          │
+│                            │
+╰────────────────────────────╯
