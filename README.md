@@ -1,4 +1,23 @@
-<!-- ========================================================= -->
+<div align="center">
+
+  <br>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=THAIS+COELHO;CENTRAL+DE+COMANDO;SYSTEM_ONLINE"
+    alt="Typing SVG"
+  />
+
+  <br>
+
+  <p>
+    <strong>Computer Science Student</strong>
+    &nbsp; // &nbsp;
+    <strong>Full-Stack Developer</strong>
+    &nbsp; // &nbsp;
+    <strong>CyberSecurity</strong>
+  </p>
+
+</div><!-- ========================================================= -->
 <!--                     THAIS COELHO                          -->
 <!--                  GITHUB PROFILE README                    -->
 <!-- ========================================================= -->
