@@ -97,10 +97,9 @@ Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolv
 
 </div>
 
+## SYSTEM OBJECTIVES // DIÁRIO DE BORDO
 
-##  SYSTEM OBJECTIVES // DIÁRIO DE BORDO
-
-```json
+<pre style="color:#b026ff;">
 {
   "learning": [
     "Advanced Cryptography",
@@ -111,7 +110,7 @@ Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolv
   "challenge_level": "Hardcore",
   "coffee_consumed": "Indefinite"
 }
-```
+</pre>
 
 ---
 
