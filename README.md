@@ -16,11 +16,25 @@
 
   <!-- ================= SYSTEM HUD STATUS ======================== -->
 
-  ```diff
-  + SYSTEM_STATUS: ONLINE 
-  + SECURITY_KERNEL: ACTIVE [KALI_LINUX_LOADED]
-  + THREAT_DETECTION: SCANNING_NETWORK_PACKETS...
-  ```
+```typescript
+// VOCÊ PODE ALTERAR AS FRASES E PROPRIEDADES ABAIXO:
+const systemConfig = {
+  message: "🚀 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕦𝕟𝕚𝕧𝕖𝕣𝕤𝕖 🚀",
+  status: "System Initializing...",
+  progress: "Loading..."
+};
+
+async function bootSystemKernel() {
+  console.log(systemConfig.message);
+  console.log(`[STATUS]: ${systemConfig.status}`);
+  
+  for (let percent = 0; percent <= 100; percent += 25) {
+    console.log(`[${systemConfig.progress}]: ${percent}%`);
+  }
+  
+  return "ACCESS_GRANTED // THAIS_COELHO_CORE_ONLINE";
+}
+```
 
   <br>
 
