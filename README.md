@@ -24,6 +24,21 @@
 
   <br>
 
+  <!-- ================= WELCOME MESSAGE ========================= -->
+
+```typescript
+/**
+ * 🚀 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕦𝕟𝕚𝕧𝕖𝕣𝕤𝕖 🚀
+ */
+const accessControl = {
+  user: "guest",
+  status: "AUTHORIZED",
+  environment: "thaissec_universe"
+};
+```
+
+  <br>
+
   <!-- ================= IDENTITY ============================== -->
 
   # ⚡ THAIS COELHO
