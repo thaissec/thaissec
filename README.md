@@ -14,20 +14,19 @@
 
   <br><br>
 
-  <!-- ================= TYPESCRIPT BOOT ======================= -->
-<!-- ================= TYPESCRIPT NEON BOOT ================= -->
+  <!-- ================= CYBER SECURITY NEON BOOT ================= -->
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=1700&pause=600&color=E879F9&background=0D0B14&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING_TYPESCRIPT...;%3E+TYPE_SYSTEM_ONLINE;%3E+STRONG_TYPING_ENABLED;%3E+TS_CORE_MODULE_LOADED"
-  alt="Neon TypeScript Boot Animation"
-/>
+  <img
+    src="https://demolab.com"
+    alt="Neon Cyber Security Boot Animation"
+  />
 
   <br><br>
 
   <!-- ================= SYSTEM ONLINE ======================== -->
 
   <img
-    src="https://img.shields.io/badge/SYSTEM-ONLINE-22C55E?style=for-the-badge&labelColor=0D0B14"
+    src="https://shields.io"
     alt="System Online"
   />
 
@@ -47,6 +46,17 @@
     <code>CYBERSECURITY</code>
   </p>
 
+  <br>
+  
+  <!-- ================= CONNECT WITH ME ============================== -->
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://shields.io" alt="Instagram"/>
+  </a>
+
 </div>
 
 <br>
@@ -57,10 +67,37 @@
 <!--                    MAIN SYSTEM PANEL                        -->
 <!-- ============================================================ -->
 
-<table align="center">
-<tr>
+## 🪐 OVERVIEW // SOBRE MIM
 
-<td width="35%" valign="top">
+🤖 Bem-vindo(a) à minha central de comando baseada na nuvem. Sou estudante de **Ciência da Computação** apaixonada por decodificar problemas complexos, estruturar arquiteturas web eficientes e desvendar os meandros da segurança cibernética.
+
+💡 Meu foco atual está no desenvolvimento de aplicações modernas de ponta a ponta (Full-Stack), automação de processos inteligentes e no estudo prático de vulnerabilidades digitais.
+
+🛡️ Acredito que o código limpo combinado com protocolos de segurança rígidos é o que define o verdadeiro software de nível de produção.
+
+---
+
+## ⚡ TECH STACK & CORE PROTOCOLS
+
+Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolvimento:
+
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+
+---
+
+## 🎯 SYSTEM OBJECTIVES // DIÁRIO DE BORDO
+
+```json
+{
+  "learning": ["Advanced Cryptography", "Graph Theory", "Next.js 15"],
+  "focus": "Building secure REST/GraphQL microservices Architectures",
+  "challenge_level": "Hardcore",
+  "coffee_consumed": "Indefinite"
+}
+```
+
+---
 
 <div align="center">
-──╯
+  <sub>// IN DATA WE TRUST. MADE WITH LOVELY CODE BY THAIS COELHO © 2026.</sub>
+</div>
