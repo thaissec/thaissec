@@ -12,14 +12,14 @@
     alt="THAIS COELHO // COMMAND CENTER"
   />
 
-  <br><br>
+  <br>
 
-  <!-- ================= TYPESCRIPT DEVELOPER ================= -->
+  <!-- ================= TERMINAL PHRASES ===================== -->
 
   <img
-    src="./typescript_developer.gif"
+    src="./terminal_phrases_neon_purple.gif"
     width="850"
-    alt="TypeScript Developer Code Animation"
+    alt="Terminal Initialization"
   />
 
   <br><br>
@@ -53,12 +53,10 @@
 
 💡 Meu foco atual está no desenvolvimento de aplicações modernas de ponta a ponta (**Full-Stack**), automação de processos inteligentes e no estudo prático de vulnerabilidades digitais.
 
-🛡️ Acredito que código limpo, arquitetura bem estruturada e protocolos de segurança rígidos são a base de um software de nível de produção.
+🛡️ Acredito que o código limpo combinado com protocolos de segurança rígidos é o que define o verdadeiro software de nível de produção.
 
 * 📍 **Localização:** Brasil
 * 🚀 **Status:** Codando o futuro
-* 💻 **Especialidade:** Full-Stack Development
-* 🛡️ **Área de interesse:** Cybersecurity
 
 ---
 
@@ -68,16 +66,14 @@ Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolv
 
 ### 🛡️ Cyber Security & Ambiente
 
-* **Operating Systems:** `Linux` | `Kali Linux`
+* **Operational Systems:** `Linux` | `Kali Linux`
 * **Containers & Versioning:** `Docker` | `Git`
 * **IDE:** `VS Code`
 
 ### 🛠️ Desenvolvimento Full-Stack
 
 * **Languages:** `Python` | `JavaScript` | `TypeScript`
-* **Frontend:** `HTML5` | `CSS3` | `React.js`
-* **Backend:** `Node.js`
-* **Database:** `SQL`
+* **Web Tech:** `HTML5` | `CSS3` | `React.js` | `Node.js`
 
 ---
 
@@ -90,8 +86,7 @@ Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolv
     "Graph Theory",
     "Next.js 15"
   ],
-  "focus": "Building secure REST/GraphQL microservices architectures",
+  "focus": "Building secure REST/GraphQL microservices Architectures",
   "challenge_level": "Hardcore",
-  "coffee_consumed": "Indefinite",
-  "status": "Always learning"
+  "coffee_consumed": "Indefinite"
 }
