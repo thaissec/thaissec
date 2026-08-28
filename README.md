@@ -97,22 +97,18 @@ Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolv
 
 </div>
 
-##  SYSTEM OBJECTIVES // DIÁRIO DE BORDO
 
-```json
-{
-  "learning": [
-    "Advanced Cryptography",
-    "Graph Theory",
-    "Next.js 15"
-  ],
-  "focus": "Building secure REST/GraphQL microservices Architectures",
-  "challenge_level": "Hardcore",
-  "coffee_consumed": "Indefinite"
-}
-```
 
----
+```html
+<div align="center">
+
+<img
+  src="./system-objectives.svg"
+  width="850"
+  alt="SYSTEM OBJECTIVES // DIÁRIO DE BORDO"
+/>
+
+</div>
 
 ## SYSTEM ARCHITECTURE
 
