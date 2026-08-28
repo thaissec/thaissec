@@ -81,16 +81,21 @@ Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolv
 
 ### 🛡️ CYBER SECURITY & AMBIENTE
 
-* **OPERATIONAL SYSTEMS:** `Linux` | `Kali Linux`
-* **CONTAINERS & VERSIONING:** `Docker` | `Git`
-* **IDE:** `VS Code`
+<div align="center">
 
-### DESENVOLVIMENTO FULL-STACK
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,vscode" />
 
-* **LANGUAGES:** `Python` | `JavaScript` | `TypeScript`
-* **WEB TECH:** `HTML5` | `CSS3` | `React.js` | `Node.js`
+</div>
 
----
+<br>
+
+### ⚡ DESENVOLVIMENTO FULL-STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nodejs" />
+
+</div>
 
 ##  SYSTEM OBJECTIVES // DIÁRIO DE BORDO
 
