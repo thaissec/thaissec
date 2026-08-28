@@ -14,42 +14,28 @@
 
   <br><br>
 
-   <!-- ================= SYSTEM HUD STATUS ======================== -->
+  <!-- ================= TYPESCRIPT DEVELOPER ================= -->
 
-```typescript
-// SYSTEM_STATUS: ONLINE 
-// SECURITY_KERNEL: ACTIVE [KALI_LINUX_LOADED]
-// THREAT_DETECTION: SCANNING_NETWORK_PACKETS...
+  <img
+    src="./typescript_developer.gif"
+    width="850"
+    alt="TypeScript Developer Code Animation"
+  />
 
-const systemConfig = {
-  message: "🚀 Welcome to my universe 🚀",
-  status: "System Initializing...",
-  progress: "Loading..."
-};
-
-async function bootSystemKernel() {
-  console.log(systemConfig.message);
-  console.log(`[STATUS]: ${systemConfig.status}`);
-  
-  for (let percent = 0; percent <= 100; percent += 25) {
-    console.log(`[${systemConfig.progress}]: ${percent}%`);
-  }
-  
-  return "ACCESS_GRANTED // THAIS_COELHO_CORE_ONLINE";
-}
-```
-
+  <br><br>
 
   <!-- ================= IDENTITY ============================== -->
 
   # ⚡ THAIS COELHO
+
   ## 🪐 CIENTISTA DA COMPUTAÇÃO // CENTRAL DE COMANDO
 
   `COMPUTER SCIENCE` &nbsp;//&nbsp; `FULL-STACK` &nbsp;//&nbsp; `CYBERSECURITY`
 
   <br>
 
-  🌐 **[LINKEDIN](https://linkedin.com)** &nbsp;|&nbsp; 📸 **[INSTAGRAM](https://instagram.com)**
+  🌐 **[LINKEDIN](https://linkedin.com)** &nbsp;|&nbsp;
+  📸 **[INSTAGRAM](https://instagram.com)**
 
 </div>
 
@@ -65,12 +51,14 @@ async function bootSystemKernel() {
 
 🤖 Bem-vindo(a) à minha central de comando baseada na nuvem. Sou estudante de **Ciência da Computação** apaixonada por decodificar problemas complexos, estruturar arquiteturas web eficientes e desvendar os meandros da segurança cibernética.
 
-💡 Meu foco atual está no desenvolvimento de aplicações modernas de ponta a ponta (Full-Stack), automação de processos inteligentes e no estudo prático de vulnerabilidades digitais.
+💡 Meu foco atual está no desenvolvimento de aplicações modernas de ponta a ponta (**Full-Stack**), automação de processos inteligentes e no estudo prático de vulnerabilidades digitais.
 
-🛡️ Acredito que o código limpo combinado com protocolos de segurança rígidos é o que define o verdadeiro software de nível de produção.
+🛡️ Acredito que código limpo, arquitetura bem estruturada e protocolos de segurança rígidos são a base de um software de nível de produção.
 
 * 📍 **Localização:** Brasil
 * 🚀 **Status:** Codando o futuro
+* 💻 **Especialidade:** Full-Stack Development
+* 🛡️ **Área de interesse:** Cybersecurity
 
 ---
 
@@ -79,13 +67,17 @@ async function bootSystemKernel() {
 Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolvimento:
 
 ### 🛡️ Cyber Security & Ambiente
-* **Operational Systems:** `Linux` | `Kali Linux`
+
+* **Operating Systems:** `Linux` | `Kali Linux`
 * **Containers & Versioning:** `Docker` | `Git`
 * **IDE:** `VS Code`
 
 ### 🛠️ Desenvolvimento Full-Stack
+
 * **Languages:** `Python` | `JavaScript` | `TypeScript`
-* **Web Tech:** `HTML5` | `CSS3` | `React.js` | `Node.js`
+* **Frontend:** `HTML5` | `CSS3` | `React.js`
+* **Backend:** `Node.js`
+* **Database:** `SQL`
 
 ---
 
@@ -93,15 +85,13 @@ Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolv
 
 ```json
 {
-  "learning": ["Advanced Cryptography", "Graph Theory", "Next.js 15"],
-  "focus": "Building secure REST/GraphQL microservices Architectures",
+  "learning": [
+    "Advanced Cryptography",
+    "Graph Theory",
+    "Next.js 15"
+  ],
+  "focus": "Building secure REST/GraphQL microservices architectures",
   "challenge_level": "Hardcore",
-  "coffee_consumed": "Indefinite"
+  "coffee_consumed": "Indefinite",
+  "status": "Always learning"
 }
-```
-
----
-
-<div align="center">
-  <sub>// IN DATA WE TRUST. MADE WITH LOVELY CODE BY THAIS COELHO © 2026.</sub>
-</div>
