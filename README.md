@@ -7,7 +7,7 @@
   <!-- ======================== HERO =========================== -->
 
   <img
-    src="./background.png"
+    src="./background.gif"
     width="100%"
     alt="THAIS COELHO // COMMAND CENTER"
   />
