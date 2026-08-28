@@ -29,11 +29,11 @@
   <!-- ================= IDENTITY ============================== -->
 
   <h1 align="center">
-    ⚡ 𝙏𝙃𝘼𝙄𝙎 𝘾𝙊𝙀𝙇𝙃𝙊
+     𝙏𝙃𝘼𝙄𝙎 𝘾𝙊𝙀𝙇𝙃𝙊
   </h1>
 
   <h2 align="center">
-    🪐 CIENTISTA DA COMPUTAÇÃO // CENTRAL DE COMANDO
+     CIENTISTA DA COMPUTAÇÃO // CENTRAL DE COMANDO
   </h2>
 
   <p align="center">
