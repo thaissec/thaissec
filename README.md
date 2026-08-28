@@ -29,7 +29,7 @@
   <!-- ================= IDENTITY ============================== -->
 
   <h1 align="center">
-     𝙏𝙃𝘼𝙄𝙎 𝘾𝙊𝙀𝙇𝙃𝙊
+     𝙏𝙃𝘼𝙄𝙎 𝘾𝙊𝙀𝙇𝙃𝙊 SOARES
   </h1>
 
   <h2 align="center">
@@ -56,13 +56,13 @@
 
 ---
 
-## 🪐 OVERVIEW // SOBRE MIM
+##  OVERVIEW // SOBRE MIM
 
 🤖 Bem-vindo(a) à minha central de comando baseada na nuvem.
 
 Sou estudante de **Ciência da Computação** apaixonada por decodificar problemas complexos, estruturar arquiteturas web eficientes e desvendar os meandros da segurança cibernética.
 
-💡 Meu foco atual está no desenvolvimento de aplicações modernas de ponta a ponta (**Full-Stack**), automação de processos inteligentes e no estudo prático de vulnerabilidades digitais.
+ Meu foco atual está no desenvolvimento de aplicações modernas de ponta a ponta (**Full-Stack**), automação de processos inteligentes e no estudo prático de vulnerabilidades digitais.
 
 🛡️ Acredito que o código limpo combinado com protocolos de segurança rígidos é o que define o verdadeiro software de nível de produção.
 
@@ -71,11 +71,11 @@ Sou estudante de **Ciência da Computação** apaixonada por decodificar problem
 * 📍 **LOCALIZAÇÃO:** `BRASIL`
 * 🚀 **STATUS:** `CODANDO O FUTURO`
 * 🧠 **MODE:** `LEARNING`
-* ⚡ **LEVEL:** `HARDCORE`
+
 
 ---
 
-## ⚡ TECH STACK & CORE PROTOCOLS
+##  TECH STACK & CORE PROTOCOLS
 
 Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolvimento:
 
@@ -85,14 +85,14 @@ Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolv
 * **CONTAINERS & VERSIONING:** `Docker` | `Git`
 * **IDE:** `VS Code`
 
-### 🛠️ DESENVOLVIMENTO FULL-STACK
+### DESENVOLVIMENTO FULL-STACK
 
 * **LANGUAGES:** `Python` | `JavaScript` | `TypeScript`
 * **WEB TECH:** `HTML5` | `CSS3` | `React.js` | `Node.js`
 
 ---
 
-## 🎯 SYSTEM OBJECTIVES // DIÁRIO DE BORDO
+##  SYSTEM OBJECTIVES // DIÁRIO DE BORDO
 
 ```json
 {
@@ -109,7 +109,7 @@ Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolv
 
 ---
 
-## 🧬 SYSTEM ARCHITECTURE
+## SYSTEM ARCHITECTURE
 
 ```text
 ┌─────────────────────────────────────────────┐
@@ -132,7 +132,7 @@ Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolv
 
 <div align="center">
 
-### ⚡ SYSTEM STATUS: ONLINE
+###  SYSTEM STATUS: ONLINE
 
 `BUILDING` // `LEARNING` // `BREAKING` // `REBUILDING`
 
