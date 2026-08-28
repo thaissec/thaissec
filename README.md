@@ -14,15 +14,31 @@
 
   <br><br>
 
-  <!-- ================= SYSTEM HUD STATUS ======================== -->
+   <!-- ================= SYSTEM HUD STATUS ======================== -->
 
-  ```diff
-  + SYSTEM_STATUS: ONLINE 
-  + SECURITY_KERNEL: ACTIVE [KALI_LINUX_LOADED]
-  + THREAT_DETECTION: SCANNING_NETWORK_PACKETS...
-  ```
+```typescript
+// SYSTEM_STATUS: ONLINE 
+// SECURITY_KERNEL: ACTIVE [KALI_LINUX_LOADED]
+// THREAT_DETECTION: SCANNING_NETWORK_PACKETS...
 
-  <br>
+const systemConfig = {
+  message: "🚀 Welcome to my universe 🚀",
+  status: "System Initializing...",
+  progress: "Loading..."
+};
+
+async function bootSystemKernel() {
+  console.log(systemConfig.message);
+  console.log(`[STATUS]: ${systemConfig.status}`);
+  
+  for (let percent = 0; percent <= 100; percent += 25) {
+    console.log(`[${systemConfig.progress}]: ${percent}%`);
+  }
+  
+  return "ACCESS_GRANTED // THAIS_COELHO_CORE_ONLINE";
+}
+```
+
 
   <!-- ================= IDENTITY ============================== -->
 
