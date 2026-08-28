@@ -14,48 +14,26 @@
 
   <br><br>
 
-  <!-- ================= CYBER SECURITY NEON BOOT ================= -->
+  <!-- ================= SYSTEM HUD STATUS ======================== -->
 
-  <img
-    src="https://demolab.com"
-    alt="Neon Cyber Security Boot Animation"
-  />
+  ```diff
+  + SYSTEM_STATUS: ONLINE 
+  + SECURITY_KERNEL: ACTIVE [KALI_LINUX_LOADED]
+  + THREAT_DETECTION: SCANNING_NETWORK_PACKETS...
+  ```
 
-  <br><br>
-
-  <!-- ================= SYSTEM ONLINE ======================== -->
-
-  <img
-    src="https://shields.io"
-    alt="System Online"
-  />
-
-  <br><br>
+  <br>
 
   <!-- ================= IDENTITY ============================== -->
 
-  <h1> Cientista da computação </h1>
+  # ⚡ THAIS COELHO
+  ## 🪐 CIENTISTA DA COMPUTAÇÃO // CENTRAL DE COMANDO
 
-  <h3>CENTRAL DE COMANDO</h3>
-
-  <p>
-    <code>COMPUTER SCIENCE</code>
-    &nbsp; // &nbsp;
-    <code>FULL-STACK</code>
-    &nbsp; // &nbsp;
-    <code>CYBERSECURITY</code>
-  </p>
+  `COMPUTER SCIENCE` &nbsp;//&nbsp; `FULL-STACK` &nbsp;//&nbsp; `CYBERSECURITY`
 
   <br>
-  
-  <!-- ================= CONNECT WITH ME ============================== -->
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" alt="Instagram"/>
-  </a>
+
+  🌐 **[LINKEDIN](https://linkedin.com)** &nbsp;|&nbsp; 📸 **[INSTAGRAM](https://instagram.com)**
 
 </div>
 
@@ -75,13 +53,23 @@
 
 🛡️ Acredito que o código limpo combinado com protocolos de segurança rígidos é o que define o verdadeiro software de nível de produção.
 
+* 📍 **Localização:** Brasil
+* 🚀 **Status:** Codando o futuro
+
 ---
 
 ## ⚡ TECH STACK & CORE PROTOCOLS
 
 Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolvimento:
 
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+### 🛡️ Cyber Security & Ambiente
+* **Operational Systems:** `Linux` | `Kali Linux`
+* **Containers & Versioning:** `Docker` | `Git`
+* **IDE:** `VS Code`
+
+### 🛠️ Desenvolvimento Full-Stack
+* **Languages:** `Python` | `JavaScript` | `TypeScript`
+* **Web Tech:** `HTML5` | `CSS3` | `React.js` | `Node.js`
 
 ---
 
