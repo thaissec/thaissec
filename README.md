@@ -96,6 +96,7 @@ Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolv
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nodejs" />
 
 </div>
+---
 
 ## SYSTEM OBJECTIVES // DIÁRIO DE BORDO
 
@@ -112,6 +113,9 @@ Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolv
 }
 </pre>
 
+---
+
+## SYSTEM ARCHITECTURE
 ---
 
 ## SYSTEM ARCHITECTURE
