@@ -14,17 +14,15 @@
 
   <br><br>
 
-   <br><br>
+  <!-- ================= SYSTEM HUD STATUS ======================== -->
 
-  <!-- ================= SYSTEM HUD STATUS CENTRALIZADO E ROXO ======================== -->
+  ```diff
+  + SYSTEM_STATUS: ONLINE 
+  + SECURITY_KERNEL: ACTIVE [KALI_LINUX_LOADED]
+  + THREAT_DETECTION: SCANNING_NETWORK_PACKETS...
+  ```
 
-  <img
-    src="https://demolab.com"
-    alt="System Status Roxo"
-  />
-
-  <br><br>
-
+  <br>
 
   <!-- ================= IDENTITY ============================== -->
 
