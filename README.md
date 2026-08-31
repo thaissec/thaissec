@@ -103,11 +103,22 @@ Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolv
 ```mermaid
 %%{init: { 'theme': 'base', 'themeVariables': { 'background': 'transparent', 'primaryColor': 'transparent', 'lineColor': '#6800a3' }}}%%
 graph TB
-    subgraph ST[SYSTEM OBJECTIVES]
-        text["<pre style='color:#6800a3; font-family: monospace; text-align: left;'>{<br>  &quot;learning&quot;: [<br>    &quot;Advanced Cryptography&quot;,<br>    &quot;Graph Theory&quot;,<br>    &quot;Next.js 15&quot;<br>  ],<br>  &quot;focus&quot;: &quot;Building secure REST/GraphQL microservices Architectures&quot;,<br>  &quot;challenge_level&quot;: &quot;Hardcore&quot;,<br>  &quot;coffee_consumed&quot;: &quot;Indefinite&quot;<br>}</pre>"]
+    subgraph ST["SYSTEM OBJECTIVES"]
+        text["{
+  'learning': [
+    'Advanced Cryptography',
+    'Graph Theory',
+    'Next.js 15'
+  ],
+  'focus': 'Building secure REST/GraphQL microservices Architectures',
+  'challenge_level': 'Hardcore',
+  'coffee_consumed': 'Indefinite'
+}"]
     end
     style ST fill:transparent,stroke:#6800a3,stroke-width:2px
     style text fill:transparent,stroke:none
+```
+
 ```
 
 ---
