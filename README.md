@@ -100,28 +100,18 @@ Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolv
 
 ## SYSTEM OBJECTIVES // DIÁRIO DE BORDO
 
-```mermaid
-%%{init: { 'theme': 'base', 'themeVariables': { 'background': 'transparent', 'primaryColor': 'transparent', 'lineColor': '#6800a3' }}}%%
-graph TB
-    subgraph ST["SYSTEM OBJECTIVES"]
-        text["{
-  'learning': [
-    'Advanced Cryptography',
-    'Graph Theory',
-    'Next.js 15'
+<pre style="color:#6800a3;">
+{
+  "learning": [
+    "Advanced Cryptography",
+    "Graph Theory",
+    "Next.js 15"
   ],
-  'focus': 'Building secure REST/GraphQL microservices Architectures',
-  'challenge_level': 'Hardcore',
-  'coffee_consumed': 'Indefinite'
-}"]
-    end
-    style ST fill:transparent,stroke:#6800a3,stroke-width:2px
-    style text fill:transparent,stroke:none
-```
-
-```
-
----
+  "focus": "Building secure REST/GraphQL microservices Architectures",
+  "challenge_level": "Hardcore",
+  "coffee_consumed": "Indefinite"
+}
+</pre>
 
 ## SYSTEM ARCHITECTURE
 ---
