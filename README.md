@@ -89,7 +89,7 @@ Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolv
 
 <br>
 
-### ⚡ DESENVOLVIMENTO FULL-STACK
+###  DESENVOLVIMENTO FULL-STACK
 
 <div align="center">
 
@@ -100,7 +100,7 @@ Aqui estão os módulos e tecnologias integrados ao meu ecossistema de desenvolv
 
 ## SYSTEM OBJECTIVES // DIÁRIO DE BORDO
 
-<pre style="color:#b026ff;">
+<pre style="color:#6800a3;">
 {
   "learning": [
     "Advanced Cryptography",
